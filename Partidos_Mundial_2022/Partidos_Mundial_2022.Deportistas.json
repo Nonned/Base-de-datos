@@ -1,0 +1,359 @@
+[{
+  "_id": {
+    "$oid": "6549766f608caf7c7e96f866"
+  },
+  "Equipo": "Qatar",
+  "Jugadores_principales": [
+    "Saad AI Sheeb",
+    "Pedro Miguel",
+    "Bassam AI Rawi",
+    "Boualem Khoukhi",
+    "Abdelkarim Hassam",
+    "Homam Ahmed",
+    "Hassan AI Haydos",
+    "Karim Boudiaf",
+    "Abdulaziz Hatem",
+    "Almoez Ali",
+    "Akram Afif"
+  ],
+  "Jugadores_suplentes": [
+    "YOUSOF HASSAN",
+    "MESHAAL BARSHAM",
+    "MOHAMMED WAAD",
+    "TAREK SALMAN",
+    "AHMED ALAAELDIN",
+    "ALI ASSADALLA",
+    "MOHAMMED MUNTARI",
+    "MUSAAB KHIDIR",
+    "ISMAIL MOHAMAD",
+    "KHALID MUNEER",
+    "SALEM AL HAJRI",
+    "ASSIM MADIBO",
+    "NAIF ABDULRAHEEM",
+    "JASSEM GABER",
+    "MOUSTAFA TAREK"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6549961468a34cc77cf1cc7e"
+  },
+  "Equipo": "Ecuador",
+  "Jugadores_principales": [
+    "Hernan GALINDEZ",
+    "Felix TORRES",
+    "Piero HINCAPIE",
+    "Pervis ESTUPINAN",
+    "Angelo PRECIADO",
+    "Romario IBARRA",
+    "Gonzalo PLATA",
+    "Jhegson MENDEZ",
+    "Moises CAICEDO",
+    "Michael ESTRADA",
+    "Enner VALENCIA"
+  ],
+  "Jugadores_suplentes": [
+    "Moises RAMIREZ",
+    "Alexander DOMINGUEZ",
+    "Robert ARBOLEDA",
+    "Jose CIFUENTES",
+    "William PACHO",
+    "Carlos GRUEZO",
+    "Eduar PRECIADO",
+    "Xavier ARREAGA",
+    "Angel MENA",
+    "Jeremy SARMIENTO",
+    "Diego PALACIOS",
+    "Alan FRANCO",
+    "Djorkaeff REASCO",
+    "Jackson POROZO",
+    "Kevin RODRIGUEZ"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6549976268a34cc77cf1cc7f"
+  },
+  "Equipo": "Inglaterra",
+  "Jugadores_principales": [
+    "Jordan PICKFORD",
+    "Luke SHAW",
+    "John STONES",
+    "Harry MAGUIRE",
+    "Kieran TRIPPIER",
+    "Declan RICE",
+    "Mason MOUNT",
+    "Jude BELLINGHAM",
+    "Harry KANE",
+    "Raheem STERLING",
+    "Bukayo SAKA"
+  ],
+  "Jugadores_suplentes": [
+    "Nick POPE",
+    "Aaron RAMSDALE",
+    "Kyle WALKER",
+    "Jack GREALISH",
+    "Jordan HENDERSON",
+    "Marcus RASHFORD",
+    "Kalvin PHILLIPS",
+    "Eric DIER",
+    "Conor COADY",
+    "Trent ALEXANDER-ARNOLD",
+    "Phil FODEN",
+    "Ben WHITE",
+    "Callum WILSON",
+    "James MADDISON",
+    "Conor GALLAGHER"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6549987368a34cc77cf1cc80"
+  },
+  "Equipo": "Irán",
+  "Jugadores_principales": [
+    "Ali BEIRANVAND",
+    "Sadegh MOHARRAMI",
+    "Milad MOHAMMADI",
+    "Morteza POURALIGANJI",
+    "Roozbeh CHESHMI",
+    "Majid HOSSEINI",
+    "Ehsan HAJI SAFI",
+    "Ali KARIMI",
+    "Ahmad NOOROLLAHI",
+    "Alireza JAHANBAKHSH",
+    "Mehdi TAREMI"
+  ],
+  "Jugadores_suplentes": [
+    "Payam NIAZMAND",
+    "Amir ABEDZADEH",
+    "Hossein HOSSEINI",
+    "Shojae KHALILZADEH",
+    "Saeid EZATOLAHI",
+    "Karim ANSARIFARD",
+    "Vahid AMIRI",
+    "Mohammad KANAANI",
+    "Saman GHODDOS",
+    "Mahdi TORABI",
+    "Ali GHOLIZADEH",
+    "Sardar AZMOUN",
+    "Ramin REZAEIAN",
+    "Abolfazl JALALI"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6549998668a34cc77cf1cc81"
+  },
+  "Equipo": "Senegal",
+  "Jugadores_principales": [
+    "Edouard MENDY",
+    "Kalidou KOULIBALY",
+    "Pape Abou CISSE",
+    "Youssouf SABALY",
+    "Abdou DIALLO",
+    "Idrissa Gana GUEYE",
+    "Nampalys MENDY",
+    "Cheikhou KOUYATE",
+    "Krepin DIATTA",
+    "Ismaila SARR",
+    "Boulaye DIA"
+  ],
+  "Jugadores_suplentes": [
+    "Seny DIENG",
+    "Alfred GOMIS",
+    "Formose MENDY",
+    "Nicolas JACKSON",
+    "Moussa NDIAYE",
+    "Pathe CISS",
+    "Fode BALLO",
+    "Iliman NDIAYE",
+    "Ismail JAKOBS",
+    "Pape SARR",
+    "Famara DIEDHIOU",
+    "Cheikh DIENG",
+    "Moustapha NAME",
+    "Mamadou NDIAYE",
+    "Pape GUEYE"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65499a6e68a34cc77cf1cc82"
+  },
+  "Equipo": "Paises bajos",
+  "Jugadores_principales": [
+    "Andries NOPPERT",
+    "Matthijs DE LIGT",
+    "Virgil VAN DIJK",
+    "Nathan AKE",
+    "Cody GAKPO",
+    "Steven BERGHUIS",
+    "Daley BLIND",
+    "Frenkie DE JONG",
+    "Denzel DUMFRIES",
+    "Steven BERGWIJN",
+    "Vincent JANSSEN"
+  ],
+  "Jugadores_suplentes": [
+    "Remko PASVEER",
+    "Justin BIJLOW",
+    "Jurrien TIMBER",
+    "Stefan DE VRIJ",
+    "Luuk DE JONG",
+    "Memphis DEPAY",
+    "Noa LANG",
+    "Davy KLAASSEN",
+    "Marten DE ROON",
+    "Tyrell MALACIA",
+    "Wout WEGHORST",
+    "Teun KOOPMEINERS",
+    "Kenneth TAYLOR",
+    "Xavi SIMONS",
+    "Jeremie FRIMPONG"
+  ]
+},
+{
+  "_id": {
+    "$oid": "654a55830c07ab6dc7711884"
+  },
+  "Equipo": "Estados Unidos",
+  "Jugadores_principales": [
+    "Matt TURNER",
+    "Sergino DEST",
+    "Walker ZIMMERMAN",
+    "Antonee ROBINSON",
+    "Tim REAM",
+    "Tyler ADAMS",
+    "Yunus MUSAH",
+    "Weston McKENNIE",
+    "Christian PULISIC",
+    "Tim WEAH",
+    "Josh SARGENT"
+  ],
+  "Jugadores_suplentes": [
+    "Ethan HORVATH",
+    "Sean JOHNSON",
+    "Giovanni REYNA",
+    "Jesus FERREIRA",
+    "Brenden AARONSON",
+    "Luca DE LA TORRE",
+    "Aaron LONG",
+    "Jordan MORRIS",
+    "Cristian ROLDAN",
+    "Shaquell MOORE",
+    "Haji WRIGHT",
+    "Cameron CARTER-VICKERS",
+    "DeAndre YEDLIN",
+    "Kellyn PERRY-ACOSTA",
+    "Joe SCALLY"
+  ]
+},
+{
+  "_id": {
+    "$oid": "654a56650c07ab6dc7711885"
+  },
+  "Equipo": "Gales",
+  "Jugadores_principales": [
+    "Wayne HENNESSEY",
+    "Neco WILLIAMS",
+    "Ben DAVIES",
+    "Chris MEPHAM",
+    "Joe RODON",
+    "Connor ROBERTS",
+    "Harry WILSON",
+    "Aaron RAMSEY",
+    "Ethan AMPADU",
+    "Gareth BALE",
+    "Daniel JAMES"
+  ],
+  "Jugadores_suplentes": [
+    "Danny WARD",
+    "Adam DAVIES",
+    "Chris GUNTER",
+    "Joe ALLEN",
+    "Brennan JOHNSON",
+    "Kieffer MOORE",
+    "Joseff MORRELL",
+    "Tom LOCKYER",
+    "Jonathan WILLIAMS",
+    "Mark HARRIS",
+    "Sorba THOMAS",
+    "Dylan LEVITT",
+    "Ben CABANGO",
+    "Rubin COLWILL",
+    "Matt SMITH"
+  ]
+},
+{
+  "_id": {
+    "$oid": "654a57200c07ab6dc7711886"
+  },
+  "Equipo": "Argentina",
+  "Jugadores_principales": [
+    "Emiliano MARTINEZ",
+    "Nicolas TAGLIAFICO",
+    "Cristian ROMERO",
+    "Nicolas OTAMENDI",
+    "Nahuel MOLINA",
+    "Leandro PAREDES",
+    "Rodrigo DE PAUL",
+    "Angel DI MARIA",
+    "Alejandro GOMEZ",
+    "Lionel MESSI",
+    "Lautaro MARTINEZ"
+  ],
+  "Jugadores_suplentes": [
+    "Franco ARMANI",
+    "Geronimo RULLI",
+    "Juan FOYTH",
+    "Gonzalo MONTIEL",
+    "German PEZZELLA",
+    "Marcos ACUNA",
+    "Julian ALVAREZ",
+    "Exequiel PALACIOS",
+    "Angel CORREA",
+    "Thiago ALMADA",
+    "RODRIGUEZ GUIDO",
+    "Alexis MAC ALLISTER",
+    "Paulo DYBALA",
+    "Enzo FERNANDEZ",
+    "Lisandro MARTINEZ"
+  ]
+},
+{
+  "_id": {
+    "$oid": "654a57f20c07ab6dc7711887"
+  },
+  "Equipo": "Arabía saudi",
+  "Jugadores_principales": [
+    "MOHAMMED ALOWAIS",
+    "ALI ALBULAYHI",
+    "SAUD ABDULHAMID",
+    "YASSER ALSHAHRANI",
+    "Hassan ALTAMBAKTI",
+    "SALMAN ALFARAJ",
+    "ABDULELAH ALMALKI",
+    "MOHAMED KANNO",
+    "FERAS ALBRIKAN",
+    "SALEM ALDAWSARI",
+    "SALEH ALSHEHRI"
+  ],
+  "Jugadores_suplentes": [
+    "MOHAMMED ALYAMI",
+    "NAWAF ALAQIDI",
+    "SULTAN ALGHANNAM",
+    "ABDULLAH MADU",
+    "Abdulelah ALAMRI",
+    "MOHAMMED ALBURAYK",
+    "ABDULLAH OTAYF",
+    "ALI ALHASSAN",
+    "Sami ALNAJI",
+    "NAWAF AL ABID",
+    "HATAN BAHBRI",
+    "ABDULRAHMAN ALOBUD",
+    "Nasser ALDAWSARI",
+    "HAITHAM ASIRI",
+    "RIYADH SHARAHILI"
+  ]
+}]

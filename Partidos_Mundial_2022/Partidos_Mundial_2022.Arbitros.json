@@ -1,0 +1,50 @@
+[{
+  "_id": {
+    "$oid": "65494fc3cd6a7ac1ea6ce600"
+  },
+  "Faltas": 36,
+  "Nombre": "Daniele Orsato",
+  "Partidos": 1,
+  "Tarjetas_amarillas": 6,
+  "Tarjetas_rojas": 0
+},
+{
+  "_id": {
+    "$oid": "65495067cd6a7ac1ea6ce601"
+  },
+  "Faltas": 25,
+  "Nombre": "Raphael Claus",
+  "Partidos": 1,
+  "Tarjetas_amarillas": 2,
+  "Tarjetas_rojas": 0
+},
+{
+  "_id": {
+    "$oid": "654950d4cd6a7ac1ea6ce602"
+  },
+  "Faltas": 29,
+  "Nombre": "Wilton Sampaio",
+  "Partidos": 1,
+  "Tarjetas_amarillas": 3,
+  "Tarjetas_rojas": 0
+},
+{
+  "_id": {
+    "$oid": "65495159cd6a7ac1ea6ce603"
+  },
+  "Faltas": 31,
+  "Nombre": "Abdurahman Al-Jassim",
+  "Partidos": 1,
+  "Tarjetas_amarillas": 6,
+  "Tarjetas_rojas": 0
+},
+{
+  "_id": {
+    "$oid": "654951f8cd6a7ac1ea6ce604"
+  },
+  "Faltas": 34,
+  "Nombre": "Slavko Vincic",
+  "Partidos": 1,
+  "Tarjetas_amarillas": 6,
+  "Tarjetas_rojas": 0
+}]

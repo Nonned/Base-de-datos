@@ -1,0 +1,35 @@
+[{
+  "_id": {
+    "$oid": "654a59900c07ab6dc7711889"
+  },
+  "Partido": "Ecuador vs Qatar",
+  "Resultado": "Ecuador 2 - Qatar 0"
+},
+{
+  "_id": {
+    "$oid": "654a59d10c07ab6dc771188e"
+  },
+  "Partido": "Inglaterra vs Iran",
+  "Resultado": "Inglaterrra 6 - Iran 2"
+},
+{
+  "_id": {
+    "$oid": "654a5a510c07ab6dc771188f"
+  },
+  "Partido": "Senegal vs Paises bajos",
+  "Resultado": "Paises bajos 2 - Senegal 0"
+},
+{
+  "_id": {
+    "$oid": "654a5a9f0c07ab6dc7711890"
+  },
+  "Partido": "Estados unidos vs Gales",
+  "Resultado": "Estados unidos 1 - Gales 1"
+},
+{
+  "_id": {
+    "$oid": "654a5aed0c07ab6dc7711891"
+  },
+  "Partido": "Argentina vs Arabia Saudi",
+  "Resultado": "Arabia saudi 2 - Argentina 1"
+}]

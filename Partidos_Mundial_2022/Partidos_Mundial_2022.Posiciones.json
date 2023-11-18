@@ -1,0 +1,250 @@
+[{
+  "_id": {
+    "$oid": "654a5cae0c07ab6dc7711894"
+  },
+  "Defensa": [
+    "Felix TORRES",
+    "Piero HINCAPIE",
+    "Pervis ESTUPINAN",
+    "Angelo PRECIADO"
+  ],
+  "Delantero": [
+    "Michael ESTRADA",
+    "Enner VALENCIA"
+  ],
+  "Equipo": "Ecuador",
+  "Guardameta": [
+    "Hernan GALINDEZ"
+  ],
+  "Mediocampo": [
+    "Romario IBARRA",
+    "Gonzalo PLATA",
+    "Jhegson MENDEZ",
+    "Moises CAICEDO"
+  ]
+},
+{
+  "_id": {
+    "$oid": "654a5d770c07ab6dc7711895"
+  },
+  "Defensa": [
+    "PEDRO MIGUEL",
+    "ABDELKARIM HASSAN",
+    "HOMAM AHMED",
+    "BASSAM HISHAM",
+    "BOUALEM KHOUKHI"
+  ],
+  "Delantero": [
+    "AKRAM AFIF",
+    "ALMOEZ ALI"
+  ],
+  "Equipo": "Qatar",
+  "Guardameta": [
+    "SAAD ALSHEEB"
+  ],
+  "Mediocampo": [
+    "ABDULAZIZ HATEM",
+    "HASSAN ALHAYDOS",
+    "KARIM BOUDIAF"
+  ]
+},
+{
+  "_id": {
+    "$oid": "654a5e470c07ab6dc7711896"
+  },
+  "Defensa": [
+    "Luke SHAW",
+    "John STONES",
+    "Harry MAGUIRE",
+    "Kieran TRIPPIER"
+  ],
+  "Delantero": [
+    "Harry KANE",
+    "Raheem STERLING",
+    "Bukayo SAKA"
+  ],
+  "Equipo": "Inglaterra",
+  "Guardameta": [
+    "Jordan PICKFORD"
+  ],
+  "Mediocampo": [
+    "Declan RICE",
+    "Mason MOUNT",
+    "Jude BELLINGHAM"
+  ]
+},
+{
+  "_id": {
+    "$oid": "654a5f8f0c07ab6dc7711897"
+  },
+  "Defensa": [
+    "Sadegh MOHARRAMI",
+    "Milad MOHAMMADI",
+    "Morteza POURALIGANJI",
+    "Roozbeh CHESHMI",
+    "Majid HOSSEINI"
+  ],
+  "Delantero": [
+    "Alireza JAHANBAKHSH",
+    "Mehdi TAREMI"
+  ],
+  "Equipo": "Iran",
+  "Guardameta": [
+    "Ali BEIRANVAND"
+  ],
+  "Mediocampo": [
+    "Ehsan HAJI SAFI",
+    "Ali KARIMI",
+    "Ahmad NOOROLLAHI"
+  ]
+},
+{
+  "_id": {
+    "$oid": "654a60bf0c07ab6dc7711898"
+  },
+  "Defensa": [
+    "Kalidou KOULIBALY",
+    "Pape Abou CISSE",
+    "Youssouf SABALY",
+    "Abdou DIALLO"
+  ],
+  "Delantero": [
+    "Boulaye DIA"
+  ],
+  "Equipo": "Senegal",
+  "Guardameta": [
+    "Edouard MENDY"
+  ],
+  "Mediocampo": [
+    "Idrissa Gana GUEYE",
+    "Nampalys MENDY",
+    "Cheikhou KOUYATE",
+    "Krepin DIATTA",
+    "Ismaila SARR"
+  ]
+},
+{
+  "_id": {
+    "$oid": "654a62510c07ab6dc7711899"
+  },
+  "Defensa": [
+    "Matthijs DE LIGT",
+    "Virgil VAN DIJK",
+    "Nathan AKE"
+  ],
+  "Delantero": [
+    "Steven BERGWIJN",
+    "Vincent JANSSEN"
+  ],
+  "Equipo": "Paises bajos",
+  "Guardameta": [
+    "Andries NOPPERT"
+  ],
+  "Mediocampo": [
+    "Cody GAKPO",
+    "Steven BERGHUIS",
+    "Daley BLIND",
+    "Frenkie DE JONG",
+    "Denzel DUMFRIES"
+  ]
+},
+{
+  "_id": {
+    "$oid": "654a63820c07ab6dc771189a"
+  },
+  "Defensa": [
+    "Sergino DEST",
+    "Walker ZIMMERMAN",
+    "Antonee ROBINSON",
+    "Tim REAM"
+  ],
+  "Delantero": [
+    "Christian PULISIC",
+    "Tim WEAH",
+    "Josh SARGENT"
+  ],
+  "Equipo": "Estados Unidos",
+  "Guardameta": [
+    "Matt TURNER"
+  ],
+  "Mediocampo": [
+    "Tyler ADAMS",
+    "Yunus MUSAH",
+    "Weston McKENNIE"
+  ]
+},
+{
+  "_id": {
+    "$oid": "654a686a0c07ab6dc771189b"
+  },
+  "Defensa": [
+    "Neco WILLIAMS",
+    "Ben DAVIES",
+    "Chris MEPHAM",
+    "Joe RODON",
+    "Connor ROBERTS"
+  ],
+  "Delantero": [
+    "Gareth BALE",
+    "Daniel JAMES"
+  ],
+  "Equipo": "Gales",
+  "Guardameta": [
+    "Wayne HENNESSEY"
+  ],
+  "Mediocampo": [
+    "Harry WILSON",
+    "Aaron RAMSEY",
+    "Ethan AMPADU"
+  ]
+},
+{
+  "_id": {
+    "$oid": "654a69050c07ab6dc771189c"
+  },
+  "Defensa": [
+    "Nicolas TAGLIAFICO",
+    "Cristian ROMERO",
+    "Nahuel MOLINA",
+    "Nicolas OTAMENDI"
+  ],
+  "Delantero": [
+    "Lionel MESSI",
+    "Lautaro MARTINEZ"
+  ],
+  "Equipo": "Argentina",
+  "Guardameta": [
+    "Emiliano MARTINEZ"
+  ],
+  "Mediocampo": [
+    "Leandro PAREDES",
+    "Rodrigo DE PAUL",
+    "Angel DI MARIA",
+    "Alejandro GOMEZ"
+  ]
+},
+{
+  "_id": {
+    "$oid": "654a6a070c07ab6dc771189d"
+  },
+  "Defensa": [
+    "ALI ALBULAYHI",
+    "SAUD ABDULHAMID",
+    "YASSER ALSHAHRANI",
+    "Hassan ALTAMBAKTI"
+  ],
+  "Delantero": [
+    "FERAS ALBRIKAN",
+    "SALEM ALDAWSARI",
+    "SALEH ALSHEHRI"
+  ],
+  "Equipo": "Arabia saudi",
+  "Guardameta": [
+    "MOHAMMED ALOWAIS"
+  ],
+  "Mediocampo": [
+    "SALMAN ALFARAJ",
+    "ABDULELAH ALMALKI",
+    "MOHAMED KANNO"
+  ]
+}]
